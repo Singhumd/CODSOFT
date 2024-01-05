@@ -1,4 +1,4 @@
-#SIMPLE CALCULATOR USINGH PYTHON
+#SIMPLE CALCULATOR USING PYTHON
 
 
 Number1 = float(input("\nEnter the first number:"))
